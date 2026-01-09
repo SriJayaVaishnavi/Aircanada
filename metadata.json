@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Air Canada HR Voice & Chat Assistant",
+  "description": "A bilingual AI assistant for Air Canada employees to handle HR requests like sick leave and overtime through voice and chat.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

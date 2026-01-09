@@ -1,0 +1,1 @@
+﻿localStorage.clear(); location.reload();
